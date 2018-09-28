@@ -1,0 +1,4 @@
+br\gov\caixa\sigct\service\validacao\ReadCSV.class
+br\gov\caixa\sigct\service\validacao\LerCSVApplication.class
+br\gov\caixa\sigct\service\validacao\CsvPojo.class
+br\gov\caixa\sigct\service\validacao\Validation.class
